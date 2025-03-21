@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#df{
+	text-align:centre;
+}
+.centre{
+	text-align:centre;
+}
+.right{
+	text-align:right;
+	
+}
+#table-1{
+	border:1px solid black;
+	border-spacing:1px;
+	padding:1px;
+}
